@@ -45,7 +45,7 @@
       </div>
     </div>
     
-    <div class="target-date glow-text">
+    <div class="target-date">
       📅 Date cible : {{ formattedTargetDate }} 📅
     </div>
     

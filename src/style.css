@@ -137,8 +137,9 @@ body {
 
 .target-date {
   margin-top: 2rem;
-  font-size: 1.2rem;
-  color: #cccccc;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #ffffff;
 }
 
 /* Texte qui brille */
@@ -486,7 +487,7 @@ body {
   }
   
   .target-date {
-    color: #333333;
+    color: #ffffff;
   }
   
   .finished {
